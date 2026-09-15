@@ -1,4 +1,4 @@
-# Teste LP — vídeo + triagem
+# Funil LP — vídeo + triagem
 
 Landing page estática independente para testar um funil minimalista de licenciamento iGreen. Não depende da LP principal para funcionar; logo e favicon são cópias locais.
 
